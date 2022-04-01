@@ -26,9 +26,9 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 
 ℒ⃝👨‍💻 *C O N N E C T  W I T H  M E*
 
-⛎ Api : api-alphabot.herokuapp.com
-♈ YouTube : youtube.com/c/zeeoneofc
-♉ Github : zeeone-ofc.github.io
+Group bot : https://chat.whatsapp.com/IOrwR1C8om9KlCLwuxWxcH
+♈ YouTube : https://youtube.com/channel/UC0iWNpAYUw0t8dEpfKKqQrQ
+Kijang mania : https://chat.whatsapp.com/Ic4SGejiDjA5mTkg1MUk4B
 `}
 
 exports.infobot = infobot
