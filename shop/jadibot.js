@@ -5,10 +5,10 @@ return`╭──「 📖  *PRICE JADIBOT*」
 │
 │ ⤷ *Free* 💌
 │
-├ • *Permanen*
+├ • *sewa bot perbulan*
 │
-│ ⤷ *Harga :  25k [E-Wallet]*
-│ ⤷ *Harga :  28k [Pulsa]*
+│ ⤷ *Harga :  10k [Dana]*
+│ ⤷ *Harga :  15k [Pulsa]*
 │
 ├─ 「 💰  *PAYMENT* 」
 │
@@ -25,9 +25,9 @@ return`╭──「 📖  *PRICE JADIBOT*」
 ├─ 「 📝  *NOTES* 」
 │
 │ ⤷ _Tidak perlu termux_
-│ ⤷ _Minat? Hubungi 0887435047326_
+│ ⤷ _Minat? Hubungi http://wa.me/6289515030066
 │
 ╰──「 *Thank's* 」
 `
 }
-exports.jadibut = jadibut
+exports.jadibut = jadibot
