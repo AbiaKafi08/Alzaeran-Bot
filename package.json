@@ -1,8 +1,8 @@
 {
-  "name": "Alphabot",
+  "name": "Alzaeranbot",
   "version": "16.0.0",
   "description": "WhatsApp bot",
-  "zeeone": "zeeone.js",
+  "Alzaeranbot": "Alzaeran.js",
   "directories": {
     "lib": "lib"
   },
@@ -69,12 +69,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeeone-ofc"
+    "url": "git+https://github.com/Alzaeran"
   },
   "keywords": [
     "botwea"
   ],
-  "author": "ZEEONE",
+  "author": "Alzaeran",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zeeone-ofc"
